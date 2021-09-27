@@ -2,8 +2,6 @@ import React from 'react'
 
 export default function FilterButton(props) {
 
-
-
     return (
         <div className="filters btn-group stack-exception">
             <button
